@@ -1,2 +1,2 @@
 # 5346Fall2018
-Stuff for the DH seminar
+Materials and downloads for students in my fall 2018 DH seminar
